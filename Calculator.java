@@ -21,5 +21,9 @@ public class Calculator{
 		System.out.println("Cube of number = "+(number1*number1*number1));
 
 	}
+	public static void square(int number1){
+		System.out.println("Square of number = "+(number1*number1));
+
+	}
 	
 }
