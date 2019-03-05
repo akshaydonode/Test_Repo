@@ -17,4 +17,9 @@ public class Calculator{
 		System.out.println("Multiplication = "+(number1*number2));
 
 	}
+	public static void cube(int number1){
+		System.out.println("Cube of number = "+(number1*number1*number1));
+
+	}
+	
 }
